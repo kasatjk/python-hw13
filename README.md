@@ -1,3 +1,3 @@
 # python-hw13
-<img src="/server-ok.png">
-<img src="/server-error.png">
+<img src="/server-ok.png" width="50%">
+<img src="/server-error.png" width="50%">
