@@ -1,3 +1,3 @@
 # python-hw13
-[Client. Server OK :)](/server-ok.png)
-[Client. Server not OK :(](/server-error.png)
+<img src="/server-ok.png">
+<img src="/server-error.png">
